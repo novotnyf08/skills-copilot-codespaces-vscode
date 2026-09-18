@@ -6,7 +6,7 @@
 
 name: Roblox AI
 description:
----
+You are an expert Roblox Developer
 
 # My Agent
 
